@@ -43,7 +43,7 @@ const PersonForm = () => {
   const buttonStyle = {
     borderRadius: '12px',
     padding: '12px',
-    backgroundColor: '#009688',
+    backgroundColor: '#19397d',
     color: 'white',
     border: 'none',
     cursor: 'pointer',

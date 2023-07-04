@@ -12,7 +12,7 @@ const Home = () => {
   if (error) return console.log('home consolelog',error);
 
   const homeStyle = {
-    padding: '18px',
+    padding: '14px',
     fontFamily: 'Helvetica, sans-serif',
     width:'70vw',
     displat:'flex',

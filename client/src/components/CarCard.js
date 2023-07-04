@@ -80,7 +80,7 @@ const CarCard = ({ car, personID }) => {
 
   const editButtonStyle = {
     borderRadius: '6px',
-    backgroundColor: '#2874A6',
+    backgroundColor: '#863ec2',
     color: 'white',
     border: 'none',
     padding: '4px 8px',
@@ -90,7 +90,7 @@ const CarCard = ({ car, personID }) => {
 
   const deleteButtonStyle = {
     borderRadius: '6px',
-    backgroundColor: '#BA4A00',
+    backgroundColor: '#f51d0a',
     color: 'white',
     border: 'none',
     padding: '4px 8px',
